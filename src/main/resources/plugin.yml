@@ -1,0 +1,9 @@
+name: StrongZombies
+version: ${project.version}
+main: ru.deelter.strongzombies.Main
+api-version: 1.16
+
+prefix: StrongZombies
+authors: [ DeelTer ]
+description: now zombies can break blocks
+website: vk.com/DeelTer
