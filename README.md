@@ -1,10 +1,8 @@
-# StrongZombies
- Zombies can now break blocks
-<img src="https://sun9-30.userapi.com/impg/n67hVjUet5Z6_9pl_F0F72VoZOCYxirr6XRnnw/4U2DGv70XKo.jpg?size=300x300&quality=96&sign=91956276c174a4ba2affe0c5bf2d1b95&type=album" alt="DeelTer Face" align="right">
+<img src="https://sun9-54.userapi.com/impg/uqVEhMNVF_naPeV7MzZkkLEAkjaYvWWDjsII5A/H4Gsmyorqh4.jpg?size=500x500&quality=96&sign=3c02f1d5a0550ea02d6c4d289b3232bd&type=album" alt="DeelTer face" align="right">
 <div align="center">
   <h1>StrongZombies</h1>
-  <h3>can now break blocks</h3>
+  <h3>Zombies can now break blocks</h3>
 
   [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
-  [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/AccountChanger/releases)
+  [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/StrongZombies/releases)
 </div>
